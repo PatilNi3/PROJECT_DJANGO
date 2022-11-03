@@ -11,4 +11,4 @@ In this project, the app will display the weather of the searched cities. In thi
 • Weather.html: ![image](https://user-images.githubusercontent.com/109037411/199660812-8ba85e22-943b-4329-b0f3-923104824800.png)
 • python manage.py runserver: ![image](https://user-images.githubusercontent.com/109037411/199661017-4c556902-6c07-4356-a350-eef139f69c7f.png)
 
-Thank You.☻
+#Thank You.☻
